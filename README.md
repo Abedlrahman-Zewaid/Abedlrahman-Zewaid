@@ -1,5 +1,5 @@
 ### Hi there 👋, I'am Abdelrahman Zewaid
-##### a digital IC design/verification engineer  
+##### a digital IC design/verification Enthusiast  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=digital+IC+design;digital+IC+verification)](https://git.io/typing-svg)
 
