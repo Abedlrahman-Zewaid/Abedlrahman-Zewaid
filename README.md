@@ -3,10 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=digital+IC+design;digital+IC+verification)](https://git.io/typing-svg)
 
-- I’m a passionate engineering student focused on digital design and verification. I enjoy coding in Verilog/VHDL, testing with 
-SystemVerilog and UVM, and working with FPGAs. 
-- Currently, I’m advancing my skills in digital IC verification using UVM and eager to grow through hands-on projects with industry tools. 
-
+- I’m a passionate engineering student with a strong foundation in digital design and solid hands-on skills in verification. I have fully understood UVM-based verification and successfully built complete environments in SystemVerilog.
+- At the moment, I’m expanding my journey into the ASIC design flow, aiming to connect my digital design expertise with advanced verification and implementation practices.
 
 
 
